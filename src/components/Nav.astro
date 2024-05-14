@@ -15,6 +15,7 @@ const { data } = Astro.props;
                 <Urls
                     name={JSON.stringify(index + 1) + ": " + value.Title}
                     url={"#" + JSON.stringify(index + 1)}
+                    stylos={value.Clases}
                 />
             ))
         }

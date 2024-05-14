@@ -1,100 +1,100 @@
 [
     {
         "Title": "Introducción",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "No sé por dónde empezar, sinceramente. No estoy seguro de si llegarás a leer esto, quizás sí, quizás no. No sé nada, ni tú ni yo sabemos qué depara el futuro. Bueno, si estás leyendo esto, permíteme una introducción. Esto es una página que creé y estoy trabajando en ella. Mi objetivo es expresar un poco de mis pensamientos y sentimientos. La verdad es que tú y yo estamos en desacuerdo, podría decirse confundidos, pero en realidad no lo estamos, porque sé perfectamente lo que quiero. Realmente no sé qué más decir en esta introducción jajajajaja, no es un ensayo, pero igual jajaja. Un poco de humor nunca hace daño."
     },
     {
         "Title": "Tu",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "'Tu, Tu, Tu'. Lo puedes interpretar de muchas cosas porque así es cuando digo tu, pienso en muchas cosas. Sabes que es así, no te voy a decir lo que ya sabes que es lo obvio (hermosa, bella, preciosa, perfecta, inteligente así es inteligente, todo) eso ya lo sabes, ¡verdad! ¿Verdad?. Pero hoy pienso en eso y en que lo más obvio que en 'ya no'. A qué me refiero, tal vez tu, tu, tu ya no me quieres junto a ti, tu, tu, tu no sabes que me muero por dentro, tal vez tu estás mejor así, tal vez tu eres más feliz así, tal vez tu ya no me necesitas para vivir, tal vez tu no quieres seguir junto a mi. Eso es lo que pienso. Pienso en Tu, en tu y yo, en tu sin yo, eres feliz."
     },
     {
         "Title": "Un botón",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Sabes que fácil es, ¿verdad? Solo hay que apretar unos botones. Se supone que los dos podemos hacerlo, siento que es así. Pero no está tan fácil, al menos eso pienso considerando lo que leíste anteriormente. ¿Y si estás mejor sin ese botón? Por eso no lo aplastas. ¿Y si yo lo aprieto? ¿Qué podría pasar? Tal vez ya se fue, tal vez tú no quieres que yo sea el que apriete ese botón, tal vez es otro chico. Y si es así, ¿me rompería el corazón el botón? ¿Qué digo? Claro que sí lo haría. Tal vez tenga que hacerlo yo para saberlo, porque de todos modos me hago daño. Si soy yo el Botón?..."
     }, 
     {
         "Title": "Bloqueo",
-        "Clases": "line-through text-red-800",
+        "Clases": 1,
         "Text": "Tal vez no entiendas los puntos anteriores. Son mis pensamientos, son lo que he estado sintiendo últimamente. Pero este punto será más fácil, te lo aseguro. Uno de los principales problemas de mis malas actitudes fue ese, esa simple palabra ... No sabes cuánto daño me hizo eso. En serio, sé que soy muy celoso, pero no sé por qué lo hiciste. ¿Qué ocultabas? ¿Por qué lo hiciste? La verdad es que me sentí muy mal cuando lo vi. ¿Entiéndeme? No encuentro justificación para el porqué. Pienso que tal vez esa fue tu forma de decir que tu seguimiento no es para mí. Tal vez es verdad. Entiendo un poco el no seguirme, pero el... Si no entiendes, lee el título."
     },
     {
         "Title": "Te entiendo",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Espero que no hayas olvidado eso. Siempre te escuché, siempre te entendí. Eso no fue el problema, no me malentiendas, eso me pareció hermoso. El problema es: ¿quién me entendió a mí? Tal vez no estés de acuerdo con este punto, pero es verdad, no lo hiciste. ¿Sabes por qué? Siempre que mencionaba un problema que tenía o cómo me sentía, tus respuestas siempre fueron en mi contra. Esto, creo que lo sabes, siempre defendías a tus amigos, y si no era eso, me hacías problemas por otras cosas. Y tú sabes que siempre acababa pidiendo perdón, siempre fui así. Pero, ¿y mi perdón? O bueno, tal vez no un perdón, pero nunca me sentí escuchado, nunca hubo un 'te entiendo'"
     },
     {
         "Title": "A",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Se convirtió en mi respuesta recurrente. Esto es algo que estoy tratando de cambiar, y quiero que entiendas lo mucho que me afecta realmente. ¿Por qué se convirtió en mi respuesta recurrente? Buena pregunta. Y la respuesta es fácil: por el punto anterior. No podía decirte nada porque tus respuestas siempre eran negativas. Créeme, intenté hablar contigo sobre todo esto que te estoy escribiendo, y todo lo demás que no has leído y que no está escrito, pero no me dejaste. La respuesta más fácil fue esa. Lo sé, sé que estaba mal, y por eso se perdió mucha comunicación. Lo siento, lo sé, y mira, sigo siendo yo."
     },
     {
         "Title": "El",
-        "Clases": "line-through text-red-800",
+        "Clases": 1,
         "Text": "Es inevitable no pensar en eso ahora que estamos muy distanciados. ¿Cómo no hacerlo? Y claro que lo seguiré haciendo. Solo el hecho de pensar en un cosquilleo me genera muchos celos. No me quiero extender, pero creo que claramente ya sabes todo lo que quiero expresar con este apartado. Solo quiero decir que sí, es él. Y por 'él' no me refiero a otro chico, me refiero a que yo ya no, solo dime 'él'. Solo dime eso, por favor."
     },
     {
         "Title": "Cuando?",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "'1, 2, 3, 4, 5'. Ayer cumplimos un mes más. Sí, el día de las madres. Esa pregunta me la he hecho mucho. ¿Cuándo escribirá, cuándo regresaremos a esas noches juntos, a esos días? ¿Cuándo recordarás las 'veces que' éramos felices? ¿Cuándo recordarás que 'yo lloro', cuando yo seré esa razón por la que te conectes a WhatsApp, cuándo volveré a ser tu razón y solo yo? ¿Cuándo, cuándo, cuándo? Nota: Quieres saber por qué los números. Lee las palabras entre comillas. 'Escribiendo esto'"
     },{
         "Title": "tullo",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Siempre me ha gustado pensar en las almas gemelas, aunque no lo creas. Sé que quizás no sientas esa conexión, pero yo dejé de ser mío desde que te conocí."
     },
     {
         "Title": "Me vas a decir que es lo que pasa",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Esas fueron las últimas palabras que me has dicho, y como imbécil, no respondí. Espero que lo entiendas, mis emociones y pensamientos estaban muy revueltos. Te responderé aquí. Me pasó que yo estaba dispuesto a para llevarte, aunque aún no me gusta, lo iba a hacer. La verdad, no sé si lo hiciste, pero esa foto me mató al saber que saliste, y seguramente con él. ¿Sabes qué es lo peor? El short. Termina aquí"
     },
     {
         "Title": "desepcion",
-        "Clases": "line-through text-red-800",
+        "Clases": 1,
         "Text": "No quiero hablar mucho de los pensamientos malos, no quiero decepcionarte más. Son mis pensamientos y espero que lo entiendas. Sé que estás decepcionada de mí, sé que tal vez tienes muchos pensamientos negativos hacia mí, pero no te voy a mentir, solo tengo un pensamiento negativo hacia ti, y exactamente ese. Pero es raro, no es por quién eres, sino por quién eres conmigo. Es eso, y ese sentimiento me da mucho coraje."
     },
     {
         "Title": "Un mesaje nuevo",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "No sabes cuánto daría por recibir esa notificación tuya. Sí, que yo te escriba. No sabes lo que daría, sé que no lo vas a hacer. Pero sería hermoso, porque sabría que realmente me amas y aceptas como soy. Alma gemela."
     },
     {
         "Title": "talvez estas bien asi",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Ya lo dije antes, es un pensamiento muy grande cada vez que aparece, ¿estás bien así? Deberías disfrutar mejor sin este amargado. Es él."
     },
     {
         "Title": "Nudo",
-        "Clases": "line-through text-red-800",
+        "Clases": 1,
         "Text": "No sabes qué se siente estar perdiendo al amor de tu vida. Esto lo digo seguro. Si lo supieras, el nudo que nos separa se rompería, y sé que yo no estoy haciendo nada para desatarlo, o si? Se siente un nudo muy fuerte en el corazón. No sé si sientes lo mismo. Se siente como si realmente hubiera perdido un pedazo de mí. Y claro, sé que tú has sentido ese nudo desde hace mucho tiempo. Pero en realidad, yo apenas lo estoy experimentando, y se siente feo. Mi amor, no sabes lo feo que se siente. Este nudo en mi corazón."
     },
     {
         "Title": "Mi C por Ti",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Mira, Leslie, yo te amo muchísimo, más de lo que puedes imaginar, y creo que no hace falta ni siquiera decirlo. Sé que tal vez ya no lo aceptes, pero yo sí. Siempre te he dicho una frase: 'Voy a cambiar mis celos', y créeme, siempre lo intento. Tú no entiendes lo que es tener lo más hermoso del mundo. Créeme, sientes que todo el mundo quiere arrebatártelo. Y simplemente no puedo evitar sentirlos. No te prometo eliminarlos, pero sí te prometo mejorar, y los dos estamos dispuestos a hacer nuestra parte."
     },
     {
         "Title": "Tu backend y frontend",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Claro que me encantan los dos y te lo puse así para que lo identifiques fácil. Pero claro que extraño tu frontend todo. No voy a decir más porque después se pierde el romanticismo o melancolía"
     },
     {
         "Title": "Lohare",
-        "Clases":"bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases":0,
         "Text": "Si lo voy a hacer, no sé qué va a pasar, no sé que pasará. Hay solo dos opciones y creo que las sabes. Solo quiero que sepas que si estás mejor así. No me respondas, solo déjame en visto. No quiero hacerte más daño, solo hazlo, déjame en visto. Si quieres, no sé qué va a pasar. Eso dímelo tú. Ya lo dije me da miedo hacerlo. Antes de algo, lee el siguiente texto"
     },{
         "Title": "Mismo",
-        "Clases":"line-through text-red-800",
+        "Clases":1,
         "Text": "Así es, no quiero engañarte, soy el mismo, soy la misma mierda. No te lo voy a ocultar, soy el mismo amargado de mrd. Este pendejo no ha cambiado de verdad, no quiero mentir. Así, el mismo imbécil al que ya no estás enamorada. No voy a decir nada más."
     },
     {
         "Title": "Lo que verdad importa",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Hablé de muchas cosas, tal vez faltó más sentimiento. Si quieres, puedes preguntarme y hablamos. La verdad es que nada de eso importa, los únicos sentimientos que deben importar son admiración, gusto, hermosura, ternura, brillantez y amor. Porque si te amo, Leslie, te amo, te amo, te amo. Rayos, Less, te amo. No sé qué puedo hacer, te amo más que a mí mismo. Soy un estúpido que solo te ama. Te amo, solo eso me importa. Amor de mi vida, te amo tanto que no sé cómo decirlo."
     },
     {
         "Title": "Conclusion",
-        "Clases": "bg-yellow-200 inline-block rounded-full px-3 py-1 shadow-md text-black",
+        "Clases": 0,
         "Text": "Te amo mucho hasta el infinito y mas alla <3"
     }
 ]
