@@ -1,0 +1,26 @@
+---
+
+interface Props{
+    url: string;
+    name: string
+}
+const {url, name} = Astro.props
+---
+<a class=" relative text-center min-w-[100px] md:min-w-[150px] p-1" href={url}>{name}</a>
+
+<style>
+    a::after{
+        content: '';
+        position: absolute;
+        width: 100%;
+        bottom: -5px;
+        left: 0;
+        height: 5px;
+        background: #fff;
+        transform: scaleX(0);
+        transition: transform .2s ease-out;
+    }
+    a:hover::after{
+        transform: scaleX(1);
+    }
+</style>

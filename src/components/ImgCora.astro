@@ -1,0 +1,73 @@
+---
+type typeAimacion = "a" | "pulsar" | "pulsar1" | "pulsar2" | "pulsar3";
+interface Props {
+    animacion: typeAimacion;
+}
+const { animacion } = Astro.props;
+---
+
+<img class={"w-64 absolute " + animacion} src="megusta.svg" alt="" />
+
+<style>
+    /* Definir la animación */
+    /* Definir una variable para la escala */
+    :root {
+        --escala-pulsar: 1.2;
+        --escala-pulsar1: 1.5;
+        --escala-pulsar2: 1.8;
+        --escala-pulsar3: 2.3;
+
+        --duracion-pulsar: 1s;
+        --duracion-pulsar1: 1.5s;
+        --duracion-pulsar2: 1.2s;
+        --duracion-pulsar3: 2s;
+    }
+
+    /* Aplicar la animación al elemento que deseas */
+    /* animation-duration: 1s; */
+    .pulsar,
+    .pulsar1,
+    .pulsar2,
+    .pulsar3 {
+        animation-name: pulse;
+        animation-iteration-count: infinite; /* Para que la animación se repita infinitamente */
+        animation-timing-function: ease-in-out; /* Para una transición suave de entrada y salida */
+    }
+
+    /* Modificar la escala para clases específicas usando las variables */
+    .pulsar {
+        animation-duration: var(--duracion-pulsar);
+        --escala: var(--escala-pulsar);
+    }
+
+    .pulsar1 {
+        animation-duration: var(--duracion-pulsar1);
+        --escala: var(--escala-pulsar1);
+    }
+
+    .pulsar2 {
+        animation-duration: var(--duracion-pulsar2);
+        --escala: var(--escala-pulsar2);
+    }
+
+    .pulsar3 {
+        animation-duration: var(--duracion-pulsar3);
+        --escala: var(--escala-pulsar3);
+    }
+
+    /* Definir la animación */
+    @keyframes pulse {
+        0% {
+            opacity: 1;
+            transform: scale(1);
+        }
+        100% {
+            opacity: 0;
+            transform: scale(
+                var(--escala, 1.2)
+            ); /* Usar la variable para la escala */
+        }
+    }
+    
+</style>
+

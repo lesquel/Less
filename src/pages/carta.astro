@@ -1,0 +1,43 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Close from "../components/Close.astro";
+import Texto from "../components/Texto.astro";
+import Title from "../components/Title.astro";
+import Nav from "../components/Nav.astro";
+
+import Data from "./../../public/carta.json";
+import { fade } from "astro:transitions";
+---
+
+<Layout title="Carta">
+    <div
+        transition:name="corazon" transition:animate={fade({duration: 100})}
+        class="min-h-screen max-w-screen relative
+    bg-black text-white overflow-hidden"
+    >
+        <Close />
+        <section class="container m-auto px-8 py-16 md:p-16">
+            <h2 class="text-6xl text-center 
+            pb-16">Leslie</h2>
+            <Nav data={Data} />
+
+            <article>
+                {
+                    Data.map((valor, inde) => {
+                        return (
+                            <div class="mb-10">
+                                <Title
+                                    index={JSON.stringify(inde + 1)}
+                                    text={valor.Title}
+                                    stylos={valor.Clases}
+                                />
+                                <Texto text={valor.Text} />
+                            </div>
+                        );
+                    })
+                }
+            </article>
+        </section>
+    </div>
+</Layout>
+

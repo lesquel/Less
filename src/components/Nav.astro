@@ -1,0 +1,22 @@
+---
+import type { typeData } from "../type";
+import Urls from "./Urls.astro";
+interface Props {
+    data: typeData[];
+}
+const { data } = Astro.props;
+---
+
+<nav class="mb-14 text-2xl">
+    <h2 class="text-3xl mb-12 text-center">Indice</h2>
+    <ul class="flex flex-wrap gap-1 md:gap-14 justify-center">
+        {
+            data.map((value, index) => (
+                <Urls
+                    name={JSON.stringify(index + 1) + ": " + value.Title}
+                    url={"#" + JSON.stringify(index + 1)}
+                />
+            ))
+        }
+    </ul>
+</nav>

@@ -1,0 +1,25 @@
+---
+import { fade } from "astro/virtual-modules/transitions.js";
+import ImgCorazon from "./ImgCora.astro";
+---
+
+<a
+    href="/carta"
+    id="nextpage"
+    class="relative
+            h-screen w-screen
+            flex justify-center items-center"
+>
+    <!-- <ImgCorazon duracion="0" scale="1"/> -->
+    <img
+        transition:name="corazon" transition:animate={fade({duration: 100})}
+        class="w-64 fixed right-1/2 translate-x-1/2"
+        src="megusta.svg"
+        alt=""
+    />
+
+    <ImgCorazon animacion="pulsar" />
+    <ImgCorazon animacion="pulsar1" />
+    <ImgCorazon animacion="pulsar3" />
+    <ImgCorazon animacion="pulsar2" />
+</a>
